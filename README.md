@@ -1,2 +1,7 @@
 # imgui_menu
-D3D9 Imgui Menu made
+
+Basic DXD9 Imgui Menu made for Rust that I never completed
+
+VCPKGS:
+- Nlogmann JSON
+- GLFW OpenGL
