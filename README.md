@@ -1,7 +1,8 @@
 # imgui_menu
 
-Basic DXD9 Imgui Menu made for Rust that I never completed.
+A basic DXD9 IMGUI menu I made for Rust that I never completed.
 
 VCPKGS:
-- Nlohmann JSON
-- GLFW OpenGL
+- Nlohmann JSON: `vcpkg install nlohmann-json:x64-windows`
+- GLFW OpenGL: `vcpkg install glfw3:x64-windows`
+
