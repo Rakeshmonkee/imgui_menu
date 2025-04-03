@@ -861,13 +861,7 @@ void gui::Render() noexcept
 						TranslateMessage(&message);
 						DispatchMessage(&message);
 					}
-				#elif defined(__APPLE__)
-									// macOS platform-specific code
-									// Use the appropriate method for capturing non-printable keys on macOS
-				#else
-									// Linux/Unix platform-specific code
-									// Use the appropriate method for capturing non-printable keys on Linux/Unix
-				#endif
+			
 				}
 
 
